@@ -1,3 +1,4 @@
+```css
 # NeuroStartUp
 
 ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
@@ -10,7 +11,7 @@
 * Высокая скорость поиска
 * Низкая цена
 
-```css
+
 .selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
